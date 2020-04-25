@@ -3,7 +3,7 @@
 ## Bootcamp description
 TBA
 
-## Setup:
+## Setup
 TBA
 
 ## Requirements
