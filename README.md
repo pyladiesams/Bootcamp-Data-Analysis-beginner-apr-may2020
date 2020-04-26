@@ -1,31 +1,35 @@
 # Welcome to Python Bootcamp Data Analysis for Beginners
  
 ## Bootcamp description
-In this bootcamp we get you started with Python programming. The first two lessons are focussed on the basics and in the 3th and 4th lesson will be moving towards using pandas for data analytics. After completing this bootcamp you
-* understand high-level code in general
-* know a bit how your computer and the file system works
-* feel formilar with the python language
-* know what git and github
-* feel formilar with pandas and doing basic data analytics with python-pandas
+In this bootcamp we get you started with Python programming. The first two lessons will cover Python basics, starting from the 3rd lesson we will be moving towards pandas for data analysis. 
 
-We asume you have 0 knolegde of programming, installation of packages or navigating through the file system of your computer with a terminal. In this repo you find 
-* Instructions on how to install Python with mini coda
-* All the content to follow our live sessions starting 29th of april in 2020
+After finishing this bootcamp you will:
+* understand high-level code in general
+* know a bit how your computer and its file system works
+* feel familiar with the Python language
+* know what git and github is
+* play with pandas and perform basic of data analysis with it
+
+Do not worry if you have zero programming knowledge and do not know how to install Python packages or how to navigate the file system of your computer with a terminal. We will cover this as well.
+
+In this repository you will find: 
+* Instructions how to install Python and Jupyter notebooks with miniconda on your computer
+* The content to follow our live lessons starting from the 29th of April, 2020. It's a live repository which will be updated once per week with new exercises, home assignments and solutions. 
 
 ## Setup
 ### Step 1
-During the bootcamp we are working in Juypter notebooks which we install with miniconda. If juypter notebooks and miniconda sound like hocus pocus to you, please follow open instructions.md and follow along with these instructions video's
+During the bootcamp we will work with Jupyter notebooks installed with miniconda. If it sounds like "hocus pocus" to you watch and follow along one of these instructions video:
 
-* Mac user:
-* Windows user:
-* Linux user:  
+* [MacOS user](https://youtu.be/Mg2n6wHanzE)
+* [Windows user](https://youtu.be/nXn52TPnZko)
+* [Linux user](https://youtu.be/cwMekDSxdNU)
 
 ### Step2
-If you have (mini) Conda or juypter notebook installed an you know how to launch the juypter notebook, please clone this repository and you are rady to 
+Clone this git repository and you are ready to go 
 
 ## Requirements
-* Miniconda (or Conda)
-* OR python>=3.7 and juypter notebook
+* mini(conda)
+* or Python>=3.7 and Juypter notebooks
 
 ## Credits
-The content of this Bootcamp was created by @pyladiesams and suported by mentors. Feel free to use this content in your own work, but make sure to tell people about us, as we aspire to help everyone that wants to learn or code Python 
+The content of this Bootcamp was created by @pyladiesams. Feel free to use it and tell more people about us, as we aspire helping everyone, who wants to learn and master Python programming language.
