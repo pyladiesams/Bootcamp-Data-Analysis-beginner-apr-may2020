@@ -17,15 +17,15 @@ In this repository you will find:
 * The content to follow our live lessons starting from the 29th of April, 2020. It's a live repository which will be updated once per week with new exercises, home assignments and solutions. 
 
 ## Setup
-### Step 1
-During the bootcamp we will work with Jupyter notebooks installed with miniconda. If it sounds like "hocus pocus" to you watch and follow along one of these instructions video:
+### If you have Python and Jupyters notebooks with mini(conda) already installed on your computer
+Clone this git repository and you are ready to go 
+
+### Help, I do not have it
+Relax and follow along one of these instructions video:
 
 * [MacOS user](https://youtu.be/Mg2n6wHanzE)
 * [Windows user](https://youtu.be/nXn52TPnZko)
 * [Linux user](https://youtu.be/cwMekDSxdNU)
-
-### Step2
-Clone this git repository and you are ready to go 
 
 ## Requirements
 * mini(conda)
