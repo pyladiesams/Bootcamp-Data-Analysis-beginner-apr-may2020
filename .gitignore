@@ -1,0 +1,8 @@
+# Mac/OSX
+.DS_Store
+
+# IDEs
+.vscode
+
+# Jupyter notebook
+.ipynb_checkpoints
