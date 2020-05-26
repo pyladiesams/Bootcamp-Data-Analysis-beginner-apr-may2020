@@ -12,7 +12,7 @@ Now, it's your time to put all, that you learned, into action.
 
 * Participate in the last online session to learn more about the team split
 * Team lists will be published on Slack #bootcamp-help channel on the 27th of May around 21:00 CEST
-* Contact your assigned team members via Slack, if there is no response within 72 hours - DM Alyona Galyeva on Slack
+* Contact your assigned team members via Slack (if there is no response within 72 hours send a direct message to Alyona Galyeva on Slack)
 * Decide as a team on how to collaborate and split the tasks
 
 ### Libraries ###
@@ -40,7 +40,7 @@ Where to look for datasets:
 
 5. **Make a 5 min presentation** about your team findings and be ready to present it online. Add presentation slides to your GitHub repo.
 
-6. **Celebrate** and wait for your certificate (if you opted for it while filling up "Registered_teams" spreadsheet)
+6. **Celebrate** and wait for your certificate (send your name and surname for the certificate in a direct message on Slack to Alyona Galyeva)
 
 ## Questions ##
 Technical questions - ask on #bootcamp-help channel on Slack
