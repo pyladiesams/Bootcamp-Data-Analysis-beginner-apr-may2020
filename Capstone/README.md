@@ -10,9 +10,9 @@ Now, it's your time to put all, that you learned, into action.
 
 ### Team ###
 
-* Participate in the last online session to learn more about the team split
-* Team lists will be published on Slack #bootcamp-help channel on the 27th of May around 21:00 CEST
-* Contact your assigned team members via Slack (if there is no response within 72 hours send a direct message to Alyona Galyeva on Slack)
+* During the last lesson we splitted all participants into 14 teams using Python team_randomizer script
+* Assigned team lists are published on Slack #bootcamp-help channel and emailed to all participants
+* Contact your assigned team members on #bootcamp-capstone-team{'your team number'} (if there is no response within 72 hours send a direct message to Alyona Galyeva on Slack)
 * Decide as a team on how to collaborate and split the tasks
 
 ### Libraries ###
