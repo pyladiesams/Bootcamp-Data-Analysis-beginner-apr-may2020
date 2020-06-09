@@ -29,14 +29,20 @@ Relax and follow along one of these instructions video:
 
 ## Requirements
 * miniconda, git
+
 or
+
 * Python>=3.7, Jupyter notebooks, git
 
 ## Recorded video lessons and Capstone presentations
 [Lesson 1](https://youtu.be/FoPAT3_8zwc)
+
 [Lesson 2](https://youtu.be/8g8MGjjkNEo)
+
 [Lesson 3](https://youtu.be/B0geOzFSyf0)
+
 [Lesson 4](https://youtu.be/B8AkXs_B2Zo)
+
 [Capstone](https://youtu.be/f3yWT3O36n8)
 
 ## Credits
