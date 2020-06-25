@@ -46,4 +46,4 @@ or
 [Capstone](https://youtu.be/f3yWT3O36n8)
 
 ## Credits
-The content of this Bootcamp was created by @pyladiesams. Feel free to use it and tell more people about us, as we aspire helping everyone, who wants to learn and master Python programming language.
+The content of this Bootcamp was created by @pyladiesams and licensed under MIT License. Feel free to use it and tell more people about us, as we aspire helping everyone, who wants to learn and master Python programming language.
