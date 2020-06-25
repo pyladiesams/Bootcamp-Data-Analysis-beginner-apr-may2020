@@ -28,11 +28,13 @@ Relax and follow along one of these instructions video:
 * [Linux user](https://youtu.be/cwMekDSxdNU)
 
 ## Requirements
-* miniconda, git
+* [miniconda](https://docs.conda.io/en/latest/miniconda.html), [git](https://git-scm.com/)
 
 or
 
 * Python>=3.7, Jupyter notebooks, git
+
+Do not install miniconda if you have already Anaconda installed.
 
 ## Recorded video lessons and Capstone presentations
 [Lesson 1](https://youtu.be/FoPAT3_8zwc)
