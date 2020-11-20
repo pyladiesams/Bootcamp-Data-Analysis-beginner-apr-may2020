@@ -17,7 +17,11 @@ In this repository you will find:
 * The content to follow our live lessons with exercises, home assignments and solutions. 
 
 ## Setup
-### If you have already git, Python and Jupyters notebooks with miniconda installed on your computer
+
+### If you have Anaconda installed:
+Clone this git repository and you are ready to go 
+
+### If you have git, Python and Jupyters notebooks, miniconda installed:
 Clone this git repository and you are ready to go 
 
 ### Help, I do not have it
@@ -28,12 +32,14 @@ Relax and follow along one of these instructions video:
 * [Linux user](https://youtu.be/cwMekDSxdNU)
 
 ## Requirements
+**Note:** If you already have anaconda environment then you don't need to install anything.
+
 * [miniconda](https://docs.conda.io/en/latest/miniconda.html), [git](https://git-scm.com/)
 
 or
 
 * Python>=3.7, Jupyter notebooks, git
-**Note:** If you already have anaconda environment then you don't need to install anything.
+
 
 ## Recorded video lessons and Capstone presentations
 [Lesson 1](https://youtu.be/FoPAT3_8zwc)
