@@ -33,8 +33,7 @@ Relax and follow along one of these instructions video:
 or
 
 * Python>=3.7, Jupyter notebooks, git
-
-Do not install miniconda if you have already Anaconda installed.
+**Note:** If you already have anaconda environment then you don't need to install anything.
 
 ## Recorded video lessons and Capstone presentations
 [Lesson 1](https://youtu.be/FoPAT3_8zwc)
